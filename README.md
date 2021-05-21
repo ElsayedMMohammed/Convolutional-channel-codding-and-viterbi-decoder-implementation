@@ -1,4 +1,4 @@
-# Conventional-channel-coding-and-viterbi-decoder-implementation
+# Convolutional-channel-coding-and-viterbi-decoder-implementation
 A MATLAB implementation for convolutional channel coding and viterbi decoder from scratch. 
 
 The implementation of the convolutional Encoder/Decoder enables using any prefered generative polynomials.
